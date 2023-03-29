@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "278766114098",
+    "project_id": "donde-vamos-19c1a",
+    "storage_bucket": "donde-vamos-19c1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278766114098:android:a9d2bddf193979c312f32b",
+        "android_client_info": {
+          "package_name": "com.example.donde_vamos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278766114098-o1q3qq5h0pcc3na0jcddt3pj1s1flcla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.donde_vamos",
+            "certificate_hash": "ec540ba410d723a478aec2601ab36abe2ce56ee1"
+          }
+        },
+        {
+          "client_id": "278766114098-erccf02mn2dfigollv97kpajp76t4acu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgfepv23Dbkil4na2XWT0IvoJUufO1q6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278766114098-erccf02mn2dfigollv97kpajp76t4acu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
